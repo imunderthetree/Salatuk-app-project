@@ -54,7 +54,8 @@ python salatuk.py
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/b54f26b2-5eb4-4cf2-93b8-dae608689a61)
 ![image](https://github.com/user-attachments/assets/4b5acb9c-210d-4782-8e7b-182daccd6ec9)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/fd4ac9ae-f356-4983-a944-9fa781776ac1)
+
 
 
 
