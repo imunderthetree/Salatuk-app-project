@@ -59,6 +59,7 @@ python salatuk.py
 
 
 
+
 ---
 
 ## 🌍 API Reference
