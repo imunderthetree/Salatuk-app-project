@@ -47,7 +47,7 @@ python salatuk.py
 ---
 
 ## ⚙️ Configuration
-🎵 **Athan Files**: Store **Athan MP3 files** in `C:/Users/user/Documents/Projects/Athans`.
+🎵 **Athan Files**: "Change it to the directory of the mp3 file in your pc when you are going to use the athan".
 
 ---
 
